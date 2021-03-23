@@ -8,6 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quenwaz&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quenwaz&repo=study-linux-kernel)](https://github.com/Quenwaz/study-linux-kernel)
+
 <!---
 Quenwaz/Quenwaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
