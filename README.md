@@ -6,7 +6,7 @@
 
 
 
-我的开源项目所用语言:
+我的开源项目涉及编程语言:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quenwaz&layout=compact)](https://github.com/Quenwaz/study-linux-kernel)
 
