@@ -5,7 +5,6 @@
 - 📫 如果对我感兴趣， 请Email: 404937333@qq.com
 
 
-
 我的开源项目涉及编程语言:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quenwaz&layout=compact)](https://github.com/Quenwaz/study-linux-kernel)
@@ -14,14 +13,13 @@
 
 仓库贡献与认可:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quenwaz&show_icons=true&theme=radical)
+![Quenwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quenwaz&show_icons=true&theme=radical)
 
 
 
 我的主要项目:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quenwaz&repo=study-linux-kernel)](https://github.com/Quenwaz/study-linux-kernel)
-
+[![study-linux-kernel](https://github-readme-stats.vercel.app/api/pin/?username=Quenwaz&repo=study-linux-kernel)](https://github.com/Quenwaz/study-linux-kernel)
 
 
 <!---
