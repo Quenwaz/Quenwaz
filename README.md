@@ -4,7 +4,7 @@
 - 💞️ 随时为更好的未来准备着， 期望对我感兴趣的同行联系我
 - 📫 如果对我感兴趣， 请Email: 404937333@qq.com
 
-
+<!---
 我的开源项目涉及编程语言:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quenwaz&layout=compact)](https://github.com/Quenwaz/study-linux-kernel)
@@ -22,7 +22,7 @@
 [![study-linux-kernel](https://github-readme-stats.vercel.app/api/pin/?username=Quenwaz&repo=study-linux-kernel)](https://github.com/Quenwaz/study-linux-kernel)
 
 
-<!---
+
 
 配置readme : https://github.com/anuraghazra/github-readme-stats
 
